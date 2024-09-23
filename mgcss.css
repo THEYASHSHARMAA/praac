@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+    margin: 0;
+    color: ;
+}
+h1{
+    color: white;
+    text-align: centre;
+    margin-top: 1rem;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 3px;
+    /* border-radius: 5px solid black; */
+}
